@@ -1,0 +1,27 @@
+@charset "utf-8";
+header {
+	width: 100%;
+	height: 100px;
+	background-color: #F8B900;
+	padding-bottom: 40px;
+	font-size: 80px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+footer {
+	background-color: #BBBBBB;
+	position: absolute;
+	width: 100%;
+	bottom: 0px;
+	height: 30px;
+	text-align: center;
+	color: #000000;
+}
+
+body li {
+	font-size: 18px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+body p {
+	color: #000000;
+	font-size: 18px;
+}
